@@ -3,7 +3,7 @@
 import UIKit
 
 //Generar un rango de 0 a 100
-for var i : (Int) = 0 ; i <= 100 ; i++ {
+for var i = 0 ; i <= 100 ; i++ {
     //4ª evaluación rango entre 30 y 40
     switch i {
     case 30 ... 40:
